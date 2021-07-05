@@ -57,7 +57,7 @@ we will give you an optional 1 hour GitHub tutorial:
 * Edward (he)/ 
 * Stephen / 
 * Bikash / 
-* Name 1 /
+* Ben / I went and watched the sunset over Hull docks when it was sunny. 
 * Name 2 /
 * Name 3 / 
 * Name 4 /
